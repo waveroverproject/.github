@@ -2,4 +2,7 @@
 This project simulates and then implements on real hardware a differential drive small roving robot with a Realsense D435 depth camera with a custom 3D printed camera holding bracket. 
 It implements a web app mission planner and control GUI so the rover can be controlled remotely from a control station laptop or mobile with access to the same IP network. 
 
+<img width="1920" height="1080" alt="Screenshot from 2025-08-09 17-55-43" src="https://github.com/user-attachments/assets/c8e9953e-a6e5-449b-9efb-7cbc2dc100bb" />
+
+
 ![Screenshot from 2025-05-18 17-12-08](https://github.com/user-attachments/assets/8f1a63c9-00f3-49c3-a7a4-8e237cb6b279)
